@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**joaopdmota/joaopdmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Brazilian greetings :brazil: :brazil: :brazil: :brazil:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+My name is João Paulo, I'm 22 years old. I've been working as oftware developer since 2018 and currently I'm software developer at [ZRP](https://zrp.com.br).
+
+
+I'm passionate about learning new technologies and improve myself.
+
+I've got some hobbies like : :soccer: :muscle: :beer: :musical_note: :tv: :movie_camera: grab some stuff to code :computer:
+
+Feel comfortable to contact me anytime: 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-paulo-duarte-mota/)](https://www.linkedin.com/in/joao-paulo-duarte-mota/)
+
+
+See ya! :wave:
