@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is João Paulo, I'm 24 years old. I've been working as oftware developer since 2018 and currently I'm software developer at [SPREAD](https://spread.com.br).
+My name is João Paulo, I'm 24 years old.
+I work as oftware developer since 2018 and nowadays I'm Front-end Engineer at [SPREAD](https://spread.com.br).
 
 
 I'm passionate about learning new technologies and improve myself.
