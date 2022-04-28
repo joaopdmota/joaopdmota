@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-
-Brazilian greetings :brazil: :brazil: :brazil: :brazil:
-
-
-My name is João Paulo, I'm 22 years old. I've been working as oftware developer since 2018 and currently I'm software developer at [SPREAD](https://spread.com.br).
+My name is João Paulo, I'm 24 years old. I've been working as oftware developer since 2018 and currently I'm software developer at [SPREAD](https://spread.com.br).
 
 
 I'm passionate about learning new technologies and improve myself.
