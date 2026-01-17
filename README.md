@@ -10,7 +10,7 @@ Currently, I'm a **Software Engineer at Fretebras**, working mainly with:
 - Architecture topics like Clean Architecture, DDD, and system design.
 
 I’m deeply passionate about software architecture, performance, and building reliable systems.  
-In my free time, I work on side projects (like **SubWatch**, a SaaS for tracking subscriptions) and study system design to level up my career.
+In my free time, I work on side projects and study system design to level up my career.
 
 Outside of tech, I enjoy:  
 ⚽ Soccer | 🥊 Boxing | 🏋️ Gym | 🎵 Music | 🎬 Movies & Series | 🍻 Good moments with friends
